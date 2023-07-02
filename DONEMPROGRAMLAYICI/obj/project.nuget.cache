@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "C3Vh1sAqSzMBUhCBz4uYGOXHjssXkg4SW8Z+9+PDoHhW5qbM2xm/x3xv/8+RKQmAHZcor/w43/cDWlEqAg9nuw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ROG\\Desktop\\ProjeDosyasi\\DONEMPROGRAMLAYICI\\DONEMPROGRAMLAYICI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ROG\\.nuget\\packages\\google.apis\\1.57.0\\google.apis.1.57.0.nupkg.sha512",
+    "C:\\Users\\ROG\\.nuget\\packages\\google.apis.auth\\1.57.0\\google.apis.auth.1.57.0.nupkg.sha512",
+    "C:\\Users\\ROG\\.nuget\\packages\\google.apis.core\\1.57.0\\google.apis.core.1.57.0.nupkg.sha512",
+    "C:\\Users\\ROG\\.nuget\\packages\\google.apis.drive.v3\\1.57.0.2684\\google.apis.drive.v3.1.57.0.2684.nupkg.sha512",
+    "C:\\Users\\ROG\\.nuget\\packages\\google.apis.sheets.v4\\1.57.0.2657\\google.apis.sheets.v4.1.57.0.2657.nupkg.sha512",
+    "C:\\Users\\ROG\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
