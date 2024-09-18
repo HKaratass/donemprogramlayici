@@ -1,4 +1,4 @@
-# DONEM PROGRAMLIYICI
+# DONEM PROGRAMLAYICI
 ## winform-first-try-basedon-csharp
 C# ile yazılmış windows form uygulaması visual studio ortamında hazırlanmıştır.
 
